@@ -1,2 +1,1 @@
-# robot_tracking
-robot tracking project
+# Georgia Tech AI for Robotics class
